@@ -2,15 +2,16 @@
 
 # Hi, I'm Manzoor 👋
 
-🧑‍💻 Solidity & Foundry Developer  
-🔐 Learning Smart Contract Security @CyfrinUpdraft  
-🎯 Working toward SSCD Certification (Sponsored)  
-📍 Balochistan, Pakistan 🇵🇰  
+ Solidity & Foundry Developer  
+ Learning Smart Contract Security @CyfrinUpdraft  
+ Working toward SSCD Certification (Sponsored)  
+ Balochistan, Pakistan 🇵🇰  
 
-## 🚀 Projects
-- 🔐 [SecureFundMe](https://github.com/yourusername/SecureFundMe)
-- 🧪 [OwnableCounter (Tested with Foundry)](https://github.com/yourusername/OwnableCounter)
-- 📦 More coming soon...
+## Projects
+-  [FundMe](https://github.com/ManzoorAhmed-blockchindev/Solidity-Fundamentals/tree/main/FundMe)
+-  [SimpleStorage)](https://github.com/ManzoorAhmed-blockchindev/Solidity-Fundamentals/tree/main/Simple_Storage)
+-  [StorageFactory](https://github.com/ManzoorAhmed-blockchindev/Solidity-Fundamentals/tree/main/Storage_Factory)
+-  More coming soon...
 
 ## 📫 Let's Connect!
 - Twitter: [@Manzoorw3dev](https://x.com/Manzoorw3dev)
