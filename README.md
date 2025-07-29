@@ -9,7 +9,7 @@
 
 ## Projects
 -  [FundMe](https://github.com/ManzoorAhmed-blockchindev/Solidity-Fundamentals/tree/main/FundMe)
--  [SimpleStorage)](https://github.com/ManzoorAhmed-blockchindev/Solidity-Fundamentals/tree/main/Simple_Storage)
+-  [SimpleStorage](https://github.com/ManzoorAhmed-blockchindev/Solidity-Fundamentals/tree/main/Simple_Storage)
 -  [StorageFactory](https://github.com/ManzoorAhmed-blockchindev/Solidity-Fundamentals/tree/main/Storage_Factory)
 -  More coming soon...
 
